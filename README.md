@@ -110,8 +110,3 @@ The dataset contains hourly-level data with the following features:
 
 This project demonstrates how **Excel can be used for end-to-end data analysis**, from data cleaning to dashboard creation. The insights derived help improve customer understanding and business performance in a bike rental system.
 
-
-
----
-
-## ⭐ If you like this project, give it a star!
